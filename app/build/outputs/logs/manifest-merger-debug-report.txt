@@ -68,6 +68,10 @@ ADDED from D:\android\Jobsheet#2\Shushme\app\src\main\AndroidManifest.xml:23:9-2
 		ADDED from D:\android\Jobsheet#2\Shushme\app\src\main\AndroidManifest.xml:26:13-37
 	android:name
 		ADDED from D:\android\Jobsheet#2\Shushme\app\src\main\AndroidManifest.xml:24:13-85
+receiver#com.example.android.shushme.GeofenceBroadcastReceiver
+ADDED from D:\android\Jobsheet#2\Shushme\app\src\main\AndroidManifest.xml:27:9-63
+	android:name
+		ADDED from D:\android\Jobsheet#2\Shushme\app\src\main\AndroidManifest.xml:27:19-60
 uses-permission#android.permission.INTERNET
 ADDED from D:\android\Jobsheet#2\Shushme\app\src\main\AndroidManifest.xml:30:5-67
 MERGED from [com.google.android.gms:play-services-maps:9.8.0] D:\android\Jobsheet#2\Shushme\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.8.0\AndroidManifest.xml:20:5-66
